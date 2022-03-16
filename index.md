@@ -1,8 +1,10 @@
 ## Welcome to GitHub Pages
 
-
-[About](/about)
-[Team Members](/team-members)
+<div class="menu">
+<p><a href="/about">About</a>
+<a href="/team-members">Team Members</a>
+  </p>
+</div>
 
 You can use the [editor on GitHub](https://github.com/Mohamed-Kassem-com/Mohamed-Kassem-com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
