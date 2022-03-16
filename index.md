@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 [About](/about)
+[Team Members](/team-members)
 
 You can use the [editor on GitHub](https://github.com/Mohamed-Kassem-com/Mohamed-Kassem-com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
